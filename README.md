@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanavp&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanavp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/niranjana_vp" target="blank"><img src="https://img.shields.io/twitter/follow/niranjana_vp?logo=twitter&style=for-the-badge" alt="niranjana_vp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Niranjanavp" target="blank"><img src="https://img.shields.io/twitter/follow/niranjana_vp?logo=twitter&style=for-the-badge" alt="niranjana_vp" /></a> </p>
 
 - 🌱 I’m currently learning **cyber security and ethical hacking**
 
