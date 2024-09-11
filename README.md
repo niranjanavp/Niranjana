@@ -1,7 +1,8 @@
-[![MasterHead](https://dribbble.com/shots/5885477-Ui-Ux-Design)](https://dribbble.com/shots/5885477-Ui-Ux-Design)
+[![MasterHead](https://cdn.dribbble.com/users/795597/screenshots/5885477/media/edb340bba09d20e95bec4b30d9e2d174.gif)](https://cdn.dribbble.com/users/795597/screenshots/5885477/media/edb340bba09d20e95bec4b30d9e2d174.gif)
 <h1 style="text-align:center;">Hi 👋, I'm Niranjana V P</h1>
 <h3 style="text-align:center;">A passionate web developer from India</h3>
-<img style="float:right;" alt="Coding" width="400" src="https://dribbble.com/shots/3848396-Character-Typing">
+<img style="float:right;" alt="Coding" width="400" src="https://dribbble.com/shots/3848396-Character-Typing/attachments/10055179?mode=media">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanavp&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanavp" /> </p>
