@@ -1,7 +1,7 @@
 [![MasterHead](images/uiux.gif)](images/uiux.gif)
 <h1 style="text-align:center;">Hi 👋, I'm Niranjana V P</h1>
 <h3 style="text-align:center;">A passionate web developer from India</h3>
-<img style="float:right;" alt="Coding" width="400" src="">
+<img style="float:right;" alt="Coding" width="400" src="images/1_qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 
